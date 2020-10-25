@@ -12,4 +12,4 @@ tensorboard-plugin-wit==1.7.0
 tensorflow==2.3.0
 tensorflow-estimator==2.3.0
 virtualenv==16.5.0
-
+py-sudoku==1.0.1
